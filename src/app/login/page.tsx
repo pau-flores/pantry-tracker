@@ -66,9 +66,9 @@ export default function Login() {
             Login
           </Button>
           <p className="mt-4">
-            <span>Don't have an account?</span>
+            <span>No account?</span>
             <a href="/register" className="ml-1 font-semibold">
-              Register!
+              Create one here!
             </a>
           </p>
         </Box>
